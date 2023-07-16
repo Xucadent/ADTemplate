@@ -1,0 +1,22 @@
+Tree PCBCustom Caption='[Custom]' TopLevel='True'  End
+Change _User TargetID='PLSch:PlacePart' Field0='Shortcut1' Value0='Y'  End
+Change _User1 TargetID='PLSch:PlacePowerPort' Field0='Shortcut1' Value0='E'  End
+Change _User2 TargetID='PLSch:PlaceWire' Field0='Shortcut1' Value0='W'  End
+Change _User3 TargetID='PLSch:PlaceNetLabel' Field0='Shortcut1' Value0='N'  End
+Change _User4 TargetID='PLSch:PlaceAnnotation' Field0='Shortcut1' Value0='T'  End
+Change _User5 TargetID='PLSch:PlaceLine' Field0='Shortcut1' Value0='L'  End
+Change _User6 TargetID='PLSch:PlaceDifferentialPair' Field0='Shortcut1' Value0='D'  End
+Change _User7 TargetID='PLSch:PlaceParameterSet' Field0='Shortcut1' Value0='B'  End
+Change _User8 TargetID='PLSch:BreakPolyline' Field0='Shortcut1' Value0='C'  End
+Change _User9 TargetID='PLWorkspaceManager:ConfigureAnnotate' Field0='Shortcut1' Value0='Z'  End
+Change _User10 TargetID='PLManRoute:PlaceLine' Field0='Shortcut1' Value0='L'  End
+Change _User11 TargetID='PLPCB:PlaceString' Field0='Shortcut1' Value0='T'  End
+Change _User12 TargetID='PLPCB:PlaceVia' Field0='Shortcut1' Value0='V'  End
+Change _User13 TargetID='PLPCB:PlacePolygonPlane' Field0='Shortcut1' Value0='E'  End
+Change _User14 TargetID='PLManRoute:AdvancedRouting' Field0='Shortcut1' Value0='W'  End
+Change _User15 TargetID='PLManRoute:AdvancedDiffPairRoute' Field0='Shortcut1' Value0='D'  End
+Change _User16 TargetID='PLManRoute:AdvancedMultiRoute' Field0='Shortcut1' Value0='B'  End
+Change _User17 TargetID='PLPCB:ModifyPolygonBorder' Field0='Shortcut1' Value0='F'  End
+Change _User18 TargetID='PLPCB:RepourAllPolygons' Field0='Shortcut1' Value0='R'  End
+Change _User19 TargetID='PLPCB:SliceTracks' Field0='Shortcut1' Value0='C'  End
+Change _User20 TargetID='PLPCB:BoardLayersAndColorsViewOptions' Field0='Shortcut1' Value0='Y'  End
