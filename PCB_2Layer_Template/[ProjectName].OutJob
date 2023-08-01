@@ -143,7 +143,7 @@ OutputEnabled7_OutputMedium4=0
 OutputEnabled7_OutputMedium5=1
 OutputDefault7=0
 Configuration7_Name1=OutputConfigurationParameter1
-Configuration7_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=0|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=E:\PCB_2Layer_Template\[ProjectName].PcbDoc
+Configuration7_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=0|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\ProgramData\Altium\Altium Designer {9C525D4D-8E4D-48B7-AF45-49005D8B5A3F}\VaultEditCache\E74F5F99-CDB7-44D3-BCD9-0CCA238696E1\Released\[ProjectName].PcbDoc
 
 [PublishSettings]
 OutputFilePath2=E:\PCB_2Layer_Template\Project Outputs for PCB_2Layer_Template\PDF\[ProjectName].PDF

@@ -36,8 +36,10 @@ IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
-VaultGUID=545D24D5-8950-4B1F-92AB-BD3C28AA6F45
-ReleaseVaultName=DigiPCBA Workspace
+VaultGUID=521C9FDF-3C32-42E9-B69C-FA9C8A6514EB
+ReleaseVaultName=RM Workspace
+RevisionGUID=B18E31C3-5AB0-4318-B7AE-07FE80BD6060
+ItemGUID=2BC92C77-D8B5-426B-8BA5-3F80EAFA46A0
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -70,7 +72,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EDSXEWFE
+DocumentUniqueId=
 
 [Document2]
 DocumentPath=[ProjectName].PcbDoc
@@ -90,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RTQAFXGM
 
 [Document3]
-DocumentPath=[ProjectName].OutJob
+DocumentPath=C:\ProgramData\Altium\Altium Designer {9C525D4D-8E4D-48B7-AF45-49005D8B5A3F}\VaultEditCache\B18E31C3-5AB0-4318-B7AE-07FE80BD6060\Released\[ProjectName].OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
